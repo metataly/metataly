@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @metataly (for friends) or Nathaly
+- 👋 Hi, I’m @metataly (Tata for friends) or Nathaly
 - 👀  I started my journey in July of 2023 without knowing ABSOLUTELY nothing about technology and programming haha
 - 🌱 I’m currently learning C, HTML, CSS, JS (at college), REACT.js and VUES.js 
 - 📫 How to reach me: nathaly.jp03@gmail.com | IG: @me.tataly
