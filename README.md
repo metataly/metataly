@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="90" src="./wellcome.png" title = "Bem-vindo" />
+  <img height="50" src="./wellcome.png" title = "Bem-vindo" />
 </div>
 
 <div align="center">
@@ -60,7 +60,7 @@
 
 ###
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif"  />
+<img align="right" height="280" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif"  />
 
 ###
 
