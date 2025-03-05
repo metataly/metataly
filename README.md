@@ -83,7 +83,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=metataly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=kacho_ga&hide_border=false&order=2" height="220" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=metataly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=kacho_ga&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
