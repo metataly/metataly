@@ -2,7 +2,7 @@
   <img height="180" src="https://i.pinimg.com/originals/c1/c4/d1/c1c4d1f9227d31182163605191a5b024.gif" />
 </div>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=MonteCarlo&size=80&pause=100&color=BE320F&background=670C0900&center=true&vCenter=true&width=700&height=200&lines=Nathaly+Pereira;Front-end+Developer" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=MonteCarlo&size=80&pause=100&color=BE320F&background=670C0900&center=true&vCenter=true&width=700&height=200&lines=Nathaly+Pereira;Data+Analyst" alt="Typing SVG"></a>
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Brazil, Rio de Janeiro<br><br>📚 Studying Analysis and Systems Development at FAETERJ<br><br>🎈 I'm currently learning more about front-end development with React. Also learning Java and Python.<br><br>⚡ In my free time, I love reading books and watching korean drama. I also enjoy exploring new technologies and working on personal projects.<br><br>💬 Actually improving my english.</p>
+<p align="left">I'm from Brazil, Rio de Janeiro<br><br>📚 Studying Analysis and Systems Development at FAETERJ<br><br>🎈 I'm currently learning more about Data Analyst with Python. Also learning PowerBI and SQL.<br><br>⚡ In my free time, I love reading books and watching korean drama. I also enjoy exploring new technologies and working on personal projects.<br><br>💬 Actually improving my english.</p>
 
 ###
 <h2 align="center">🌼🌼🌼</h2>
